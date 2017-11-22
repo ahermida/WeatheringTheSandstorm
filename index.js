@@ -33,12 +33,12 @@ const box = {
 }
 
 const player = {
-  x: canvas.width / 50,
-  y: canvas.height - canvas.height / 70,
+  x: canvas.width / 70,
+  y: canvas.height - canvas.height / 50,
   velX: 4,
   velY: 0,
   height: canvas.height / 50,
-  width: canvas.width / 50,
+  width: canvas.width / 70,
 }
 
 let score = 1;

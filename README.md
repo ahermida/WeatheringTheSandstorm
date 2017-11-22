@@ -20,9 +20,16 @@ Install with `npm`:
 
 ``` bash
 $ npm install
+
 ```
 
-Screenshot
+Run with `npm`, too:
+``` bash
+$ npm start
+
+```
+
+game
 ----------
 
 ![img](https://raw.githubusercontent.com/ahermida/WeatheringTheSandstorm/master/screenshot.png "gameplay!")
