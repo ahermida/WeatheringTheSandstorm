@@ -25,4 +25,4 @@ $ npm install
 Screenshot
 ----------
 
-![img](https://github.com/ahermida/WeatheringTheSandstorm/screenshot.png "gameplay!")
+![img](https://raw.githubusercontent.com/ahermida/WeatheringTheSandstorm/master/screenshot.png "gameplay!")
